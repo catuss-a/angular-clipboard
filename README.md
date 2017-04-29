@@ -1,6 +1,6 @@
 # Angular Clipboard for your rails APP
 
-This gem provides [angular-clipboard.js][https://github.com/omichelsen/angular-clipboard] module for your rails application.
+This gem provides [angular-clipboard.js](https://github.com/omichelsen/angular-clipboard) module for your rails application.
 
 ## Installation
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/axl/angular-clipboard. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/catuss-a/angular-clipboard. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)

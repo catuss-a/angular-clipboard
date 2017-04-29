@@ -6,7 +6,7 @@ require 'angular/clipboard/version'
 Gem::Specification.new do |spec|
   spec.name          = "angular-clipboard"
   spec.version       = Angular::Clipboard::VERSION
-  spec.authors       = ["axl"]
+  spec.authors       = ["Axel Catusse"]
   spec.email         = ["axel.catusse@gmail.com"]
 
   spec.summary       = %q{angular-clipboard.js for Rails asset pipeline}
